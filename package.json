@@ -24,7 +24,6 @@
     "@types/jest": "^24.0.23",
     "@types/node": "^12.12.14",
     "babel-jest": "^24.9.0",
-    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
     "jest": "^24.9.0",
     "typescript": "^3.7.2"
   },
