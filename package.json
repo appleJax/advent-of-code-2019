@@ -1,0 +1,32 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "Solutions to the Advent of Code 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appleJax/advent-of-code-2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appleJax/advent-of-code-2019/issues"
+  },
+  "homepage": "https://github.com/appleJax/advent-of-code-2019#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "@babel/preset-typescript": "^7.7.4",
+    "@types/jest": "^24.0.23",
+    "@types/node": "^12.12.14",
+    "babel-jest": "^24.9.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "jest": "^24.9.0",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {}
+}
